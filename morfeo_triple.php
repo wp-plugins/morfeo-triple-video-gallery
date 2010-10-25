@@ -217,7 +217,7 @@ function morfeo_triple_instala(){
    	$tags = $myrows[$conta]->tags;
    
 	$wpdb->query($sql);
-	$sql = "INSERT INTO $table_name (video, titles, width, height, tumb, round, controls, skin, columns, row, color1, color2, autoplay, tags) VALUES ('http://www.youtube.com/watch?v=7DwuVKfjctk\nhttp://www.youtube.com/watch?v=9W1dhqc-JBs\nhttp://www.youtube.com/watch?v=UxuEl8qkErs\nhttp://www.youtube.com/watch?v=niqrrmev4mA', 'Inception Trailer\nThe Last Airbender\nSwedish House\nLady Gaga', '100%', '500px', '25', '20', '0',  '1', '3', '1', '000000', 'ffffff', '0', '');";
+	$sql = "INSERT INTO $table_name (video, titles, width, height, tumb, round, controls, skin, columns, row, color1, color2, autoplay, tags) VALUES ('http://www.youtube.com/watch?v=7DwuVKfjctk\nhttp://www.youtube.com/watch?v=9W1dhqc-JBs\nhttp://www.youtube.com/watch?v=k-OOfW6wWyQ\nhttp://www.youtube.com/watch?v=niqrrmev4mA', 'Inception Trailer\nThe Last Airbender\nSwedish House\nLady Gaga', '100%', '500px', '25', '20', '0',  '1', '3', '1', '000000', 'ffffff', '0', '');";
 	$wpdb->query($sql);
 }
 function morfeo_triple_desinstala(){
@@ -257,7 +257,7 @@ if(empty($re))
 
 }
 		
-	$sql = "INSERT INTO $table_name (video, titles, width, height, tumb, round, controls, skin, columns, row, color1, color2, autoplay, tags) VALUES ('http://www.youtube.com/watch?v=7DwuVKfjctk\nhttp://www.youtube.com/watch?v=9W1dhqc-JBs\nhttp://www.youtube.com/watch?v=UxuEl8qkErs\nhttp://www.youtube.com/watch?v=niqrrmev4mA', 'Inception Trailer\nThe Last Airbender\nSwedish House\nLady Gaga', '100%', '500px', '25', '20', '0',  '1', '3', '1', '000000', 'ffffff', '0', '');";
+	$sql = "INSERT INTO $table_name (video, titles, width, height, tumb, round, controls, skin, columns, row, color1, color2, autoplay, tags) VALUES ('http://www.youtube.com/watch?v=7DwuVKfjctk\nhttp://www.youtube.com/watch?v=9W1dhqc-JBs\nhttp://www.youtube.com/watch?v=k-OOfW6wWyQ\nhttp://www.youtube.com/watch?v=niqrrmev4mA', 'Inception Trailer\nThe Last Airbender\nSwedish House\nLady Gaga', '100%', '500px', '25', '20', '0',  '1', '3', '1', '000000', 'ffffff', '0', '');";
 	$wpdb->query($sql);
 	}
 	
