@@ -3,7 +3,7 @@
 	Plugin Name: Morfeo triple Video Gallery, wpvideoplugins.com
 	Plugin URI: http://www.wpvideoplugins.com/morfeo-basic-video/
 	Description: With this plugin you can create video galleries with flv videos and/or youtube videos. USE: Install and activate the plugin. You will see a new button on your wordpress administrator, "Morfeo triple." Click here to create your videos galleries. To insert a gallery in your posts, type [morfeo_triple X/], where X is the ID of the gallery.
-	Version: 1.3
+	Version: 2.1
 	Author: wpvideoplugins.com
 	Author URI: http://www.wpvideoplugins.com/
 */	

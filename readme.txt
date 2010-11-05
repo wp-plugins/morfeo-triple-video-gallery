@@ -12,14 +12,14 @@ With this plugin you can create video galleries with flv videos and/or youtube v
 
 With this plugin you can create video galleries from flv videos or youtube videos. Widget option. To display the plugin in your Posts type [morfeo_triple ID /], where ID is the morfeo gallery ID.
 
-For create and configure the video galleries press in your Wordpress admin: Morfeo triple
+For create and configure the video galleries press in your Wordpress admin: Morfeo triple. Manual, samples and more video plugins: <a href="http://www.wpvideoplugins.com">WPVideoPlugins.com</a>.
 
 
-Manual and config samples: http://www.wpvideoplugins.com/morfeo-basic-video/
+Additional Plugin Information:
 
-Download full version morfeo video: http://www.wpvideoplugins.com/morfeo-video-gallery/
-
-Download more video plugins: http://www.wpvideoplugins.com/
+* <a href="http://www.wpvideoplugins.com/morfeo-basic-video/">Manual and config samples</a>
+* <a href="http://www.wpvideoplugins.com/morfeo-video-gallery/">Download full version Morfeo</a>
+* <a href="http://www.wpvideoplugins.com/">Download more video plugins</a>
 		
 
 == Installation ==
@@ -51,6 +51,10 @@ Once installed and activated, and the default plugin works correctly. The parame
 2. Configuration.
 
 == Changelog ==
+
+= 2.1 =
+
+* **NEW VERSION¡¡** 
 
 = 1.3 =
 
